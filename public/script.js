@@ -25,11 +25,11 @@
  * @returns {Promise<void>} - A promise that resolves when the content is updated.
  */
 
-const defaultCountry = "ES"; // US
-const defaultLanguage = "es"; // en
-const defaultTitle = "Bajo construcción"; // Under construction
-const defaultMessage = "Grandes cosas están por llegar"; // Great things are yet to come
-const defaultCopyright = "Todos los derechos reservados"; // All rights reserved
+const defaultCountry = "IN"; // US
+const defaultLanguage = "en"; // en
+const defaultTitle = "Under construction"; // Under construction
+const defaultMessage = "Great things are yet to come"; // Great things are yet to come
+const defaultCopyright = "All Rights Reserved"; // 
 const currentYear = new Date().getFullYear();
 const numStars = 500;
 
